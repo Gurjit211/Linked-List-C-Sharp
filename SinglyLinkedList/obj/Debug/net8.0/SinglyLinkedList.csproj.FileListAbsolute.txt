@@ -1,0 +1,28 @@
+C:\Users\gss_2\source\repos\Labs\SinglyLinkedList\obj\Debug\net8.0\SinglyLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gss_2\source\repos\Labs\SinglyLinkedList\obj\Debug\net8.0\SinglyLinkedList.AssemblyInfoInputs.cache
+C:\Users\gss_2\source\repos\Labs\SinglyLinkedList\obj\Debug\net8.0\SinglyLinkedList.AssemblyInfo.cs
+C:\Users\gss_2\source\repos\Labs\SinglyLinkedList\obj\Debug\net8.0\SinglyLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\gss_2\source\repos\Labs\SinglyLinkedList\bin\Debug\net8.0\SinglyLinkedList.exe
+C:\Users\gss_2\source\repos\Labs\SinglyLinkedList\bin\Debug\net8.0\SinglyLinkedList.deps.json
+C:\Users\gss_2\source\repos\Labs\SinglyLinkedList\bin\Debug\net8.0\SinglyLinkedList.runtimeconfig.json
+C:\Users\gss_2\source\repos\Labs\SinglyLinkedList\bin\Debug\net8.0\SinglyLinkedList.dll
+C:\Users\gss_2\source\repos\Labs\SinglyLinkedList\bin\Debug\net8.0\SinglyLinkedList.pdb
+C:\Users\gss_2\source\repos\Labs\SinglyLinkedList\obj\Debug\net8.0\SinglyLinkedList.dll
+C:\Users\gss_2\source\repos\Labs\SinglyLinkedList\obj\Debug\net8.0\refint\SinglyLinkedList.dll
+C:\Users\gss_2\source\repos\Labs\SinglyLinkedList\obj\Debug\net8.0\SinglyLinkedList.pdb
+C:\Users\gss_2\source\repos\Labs\SinglyLinkedList\obj\Debug\net8.0\SinglyLinkedList.genruntimeconfig.cache
+C:\Users\gss_2\source\repos\Labs\SinglyLinkedList\obj\Debug\net8.0\ref\SinglyLinkedList.dll
+C:\ALL\1st Year its\Sem 2 Courses\Data Structure & Design Pattern\Labs\Lab 3\SinglyLinkedList\bin\Debug\net8.0\SinglyLinkedList.exe
+C:\ALL\1st Year its\Sem 2 Courses\Data Structure & Design Pattern\Labs\Lab 3\SinglyLinkedList\bin\Debug\net8.0\SinglyLinkedList.deps.json
+C:\ALL\1st Year its\Sem 2 Courses\Data Structure & Design Pattern\Labs\Lab 3\SinglyLinkedList\bin\Debug\net8.0\SinglyLinkedList.runtimeconfig.json
+C:\ALL\1st Year its\Sem 2 Courses\Data Structure & Design Pattern\Labs\Lab 3\SinglyLinkedList\bin\Debug\net8.0\SinglyLinkedList.dll
+C:\ALL\1st Year its\Sem 2 Courses\Data Structure & Design Pattern\Labs\Lab 3\SinglyLinkedList\bin\Debug\net8.0\SinglyLinkedList.pdb
+C:\ALL\1st Year its\Sem 2 Courses\Data Structure & Design Pattern\Labs\Lab 3\SinglyLinkedList\obj\Debug\net8.0\SinglyLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\ALL\1st Year its\Sem 2 Courses\Data Structure & Design Pattern\Labs\Lab 3\SinglyLinkedList\obj\Debug\net8.0\SinglyLinkedList.AssemblyInfoInputs.cache
+C:\ALL\1st Year its\Sem 2 Courses\Data Structure & Design Pattern\Labs\Lab 3\SinglyLinkedList\obj\Debug\net8.0\SinglyLinkedList.AssemblyInfo.cs
+C:\ALL\1st Year its\Sem 2 Courses\Data Structure & Design Pattern\Labs\Lab 3\SinglyLinkedList\obj\Debug\net8.0\SinglyLinkedList.csproj.CoreCompileInputs.cache
+C:\ALL\1st Year its\Sem 2 Courses\Data Structure & Design Pattern\Labs\Lab 3\SinglyLinkedList\obj\Debug\net8.0\SinglyLinkedList.dll
+C:\ALL\1st Year its\Sem 2 Courses\Data Structure & Design Pattern\Labs\Lab 3\SinglyLinkedList\obj\Debug\net8.0\refint\SinglyLinkedList.dll
+C:\ALL\1st Year its\Sem 2 Courses\Data Structure & Design Pattern\Labs\Lab 3\SinglyLinkedList\obj\Debug\net8.0\SinglyLinkedList.pdb
+C:\ALL\1st Year its\Sem 2 Courses\Data Structure & Design Pattern\Labs\Lab 3\SinglyLinkedList\obj\Debug\net8.0\SinglyLinkedList.genruntimeconfig.cache
+C:\ALL\1st Year its\Sem 2 Courses\Data Structure & Design Pattern\Labs\Lab 3\SinglyLinkedList\obj\Debug\net8.0\ref\SinglyLinkedList.dll
